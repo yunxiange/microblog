@@ -1,2 +1,2 @@
 #Node.js Application microblog
-  This application applys lastest version bootstrap front-end framework, express framework,ejs template,mongodb database,node.js platform to this application!
+  This application applys bootstrap 3.0,express 3.0,ejs,mongodb technologies!
