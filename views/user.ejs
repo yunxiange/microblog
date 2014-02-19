@@ -1,0 +1,6 @@
+<% if(locals.user){ %>
+	<%- partial('say.ejs') %>
+<% } %>
+<div class="row">
+	<%- partial('posts.ejs',posts) %>
+</div>
