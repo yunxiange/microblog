@@ -1,4 +1,11 @@
-#Node.js Application microblog
-1、This application applys bootstrap 3.0,express 3.0,ejs,mongodb technologies!
+##Node.js Application MicroBlog
+1、Application Technology 
+- bootstrap 3.x
+- express 3.x
+- ejs template
+- mongodb Database
 
-2、Application's function：user login,register,post!
+2、Application Function：
+- user login
+- user register
+- blog post 
