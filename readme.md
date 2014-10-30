@@ -1,11 +1,11 @@
 ##Node.js Application MicroBlog
-1、Application Technology 
-- bootstrap 3.x
-- express 3.x
-- ejs template
-- mongodb Database
+####Application Technology 
+- [bootstrap 3.x][https://github.com/twbs/bootstrap]
+- [express 3.x][https://github.com/strongloop/express]
+- [ejs template][https://github.com/tj/ejs]
+- [mongodb Database][http://www.mongodb.org/]
 
-2、Application Function：
+####Application Function：
 - user login
 - user register
 - blog post 
